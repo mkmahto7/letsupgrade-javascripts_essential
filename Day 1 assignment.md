@@ -79,3 +79,50 @@ Currenttimeis:10PM:30:38
 ~~~
 ## Question 2 :
 Write a JavaScript program to print the contents of the current window.
+~~~
+<<!DOCTYPE html> 
+
+<html> 
+
+  
+
+<head> 
+
+    <title> 
+
+        HTML | DOM Window Print() method 
+
+    </title> 
+
+  
+
+    <script type="text/javascript"> 
+
+    </script> 
+
+  
+
+</head> 
+
+  
+
+<body> 
+
+  
+
+    <h2>HI GEEKSFORGEEKS USER'S</h2> 
+
+    <form> 
+
+        <input type="button" value="Print" 
+
+               onclick="window.print()" /> 
+
+    </form> 
+
+  
+
+</body> 
+
+<html> 
+~~~
