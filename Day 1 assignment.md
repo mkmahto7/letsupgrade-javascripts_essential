@@ -110,7 +110,7 @@ Write a JavaScript program to print the contents of the current window.
 
   
 
-    <h2>HI GEEKSFORGEEKS USER'S</h2> 
+    <h2>HI LETSUPGRADE USER'S</h2> 
 
     <form> 
 
