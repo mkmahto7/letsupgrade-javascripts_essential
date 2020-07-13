@@ -77,3 +77,5 @@ Currenttimeis:10PM:30:38
 
 </html> 
 ~~~
+## Question 2 :
+Write a JavaScript program to print the contents of the current window.
