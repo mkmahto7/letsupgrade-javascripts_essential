@@ -130,3 +130,48 @@ Write a JavaScript program to print the contents of the current window.
 ## Question 3 :
 Write a JavaScript program to get the current date.
 Expected Output : mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
+create a html file
+
+### practice.html
+~~~
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Java Script learning</title>
+
+</head>
+<body>
+<p id="demo"></p>
+
+
+
+<script type="text/javascript" 
+	src="practice.js"> </script>
+</body>
+</html>
+~~~
+### create javascript file
+~~~
+var today = new Date();
+var dd =today.getDate();
+var mm =today.getMonth()+1;
+var yyyy =today.getFullYear();
+if(dd<10){
+	dd ='0'+dd;
+}
+if(mm<10){
+	mm='0'+mm;
+}
+today =mm+'-'+dd+'-'+yyyy;
+console.log(today);
+
+~~~
+output will be
+~~~
+// You can print your code any one of the below format........................
+01-09-2018
+01/09/2018
+09-01-2018
+09/01/2018
+
+~~~
