@@ -1,4 +1,4 @@
-# DAY 1 assignment
+# DAY 2 assignment
 ## Question1:
 WriteaJavaScriptprogramtodisplaythecurrentdayandtimeinthefollowingformat.
 SampleOutput:Todayis:Tuesday.
